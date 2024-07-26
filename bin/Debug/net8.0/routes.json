@@ -1,0 +1,952 @@
+﻿[
+  {
+    "path": "/Dashboard",
+    "pathName": "Dashboard",
+    "description": "All charts and graphs information",
+    "iconName": "bx-home-alt",
+    "tooltip": "",
+    "keywords": "1",
+    "isNav": true,
+    "applicationMode": "all"
+  },
+  {
+    "path": "/ActiveTags",
+    "pathName": "ActiveTags",
+    "description": "All Active Tags",
+    "iconName": "bx-current-location",
+    "tooltip": "",
+    "keywords": "0",
+    "isNav": true,
+    "applicationMode": "all"
+  },
+  {
+    "path": "/Locations",
+    "pathName": "Location",
+    "description": "Manage data locations",
+    "iconName": "bxs-map",
+    "tooltip": "Create and Edit Locations",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/Assets",
+    "pathName": "Asset",
+    "description": "Manage data assets",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "Create and Edit Asset",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "asset"
+  },
+  {
+    "pathName": "Administration",
+    "description": "administrator information",
+    "iconName": "bx-list-plus",
+    "isNav": true,
+    "applicationMode": "stock",
+    "subNav": [
+      {
+        "path": "/Customers",
+        "pathName": "Customers",
+        "description": "Manage data customers",
+        "iconName": "bxs-user",
+        "tooltip": "Create and Edit Customers",
+        "keywords": "2",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/Products",
+        "pathName": "Products",
+        "description": "Manage data products",
+        "iconName": "bxs-package",
+        "tooltip": "Create and Edit Products",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/Locations",
+        "pathName": "Location",
+        "description": "Manage data locations",
+        "iconName": "bxs-map",
+        "tooltip": "Create and Edit Locations",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/Assets",
+        "pathName": "Asset",
+        "description": "Manage data assets",
+        "iconName": "bx-barcode-reader",
+        "tooltip": "Create and Edit Asset",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/Suppliers",
+        "pathName": "Suppliers",
+        "description": "Manage data suppliers",
+        "iconName": "bxs-group",
+        "tooltip": "Create and Edit Suppliers",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/Categories",
+        "pathName": "Categories",
+        "description": "Manage data categories",
+        "iconName": "bxs-category",
+        "tooltip": "Create and Edit Categories",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      }
+    ]
+  },
+  {
+    "path": "/SupplierOrders",
+    "pathName": "Supplier Orders",
+    "description": "Manage SupplierOrders",
+    "iconName": "bxs-cart",
+    "tooltip": "Create and Edit Supplier Orders",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/GoodsReceipt",
+    "pathName": "Goods Receipt",
+    "description": "Goods Receipt",
+    "iconName": "bxs-receipt",
+    "tooltip": "Manage shipping",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/PutAway",
+    "pathName": "Put Away",
+    "description": "Put Away",
+    "iconName": "bxs-store",
+    "tooltip": "Manage shipping",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "Customer Orders",
+    "description": "Manage Customer Orders",
+    "iconName": "bxs-cart",
+    "tooltip": "Create and Edit Customer Orders",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Picking List",
+    "description": "Manage data picking lists",
+    "iconName": "bxs-package",
+    "tooltip": "Picking Lists",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/Despatch",
+    "pathName": "Despatch",
+    "description": "Manage data orders",
+    "iconName": "bx-mail-send",
+    "tooltip": "Create and Edit Orders",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/Shipping",
+    "pathName": "Shipping",
+    "description": "Manage shipping",
+    "iconName": "bxs-truck",
+    "tooltip": "Manage shipping",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "stock"
+  },
+  {
+    "path": "/RFIDReaders",
+    "pathName": "RFID Readers",
+    "description": "Configure RFID Readers",
+    "iconName": "bx-chip",
+    "tooltip": "Configure RFID Readers",
+    "keywords": "4",
+    "isNav": true,
+    "applicationMode": "all"
+  },
+  {
+    "pathName": "Commodity Product Custom Values",
+    "description": "Managing Custom Values",
+    "iconName": "bx-customize",
+    "isNav": true,
+    "applicationMode": "stock",
+    "subNav": [
+      {
+        "path": "/CommodityProductCustomFieldValues",
+        "pathName": "Product Custom Field Values",
+        "description": "Create and edit custom field values",
+        "iconName": "bx-lemon",
+        "tooltip": "Create and edit custom field values",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      },
+      {
+        "path": "/CommodityProductCustomFields",
+        "pathName": "Product Custom Fields",
+        "description": "Create and edit custom fields",
+        "iconName": "bx-lemon",
+        "tooltip": "Create and edit custom fields",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "stock"
+      }
+    ]
+  },
+  {
+    "pathName": "Asset Custom Values",
+    "description": "Managing Custom Values",
+    "iconName": "bx-customize",
+    "isNav": true,
+    "applicationMode": "all",
+    "subNav": [
+      {
+        "path": "/AssetCustomFieldValues",
+        "pathName": "Asset Custom Field Values",
+        "description": "Create and edit custom field values",
+        "iconName": "bx-package",
+        "tooltip": "Create and edit custom field values",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "all"
+      },
+      {
+        "path": "/AssetCustomFields",
+        "pathName": "Asset Custom Fields",
+        "description": "Create and edit custom fields",
+        "iconName": "bx-package",
+        "tooltip": "Create and edit custom fields",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "all"
+      }
+    ]
+  },
+  {
+    "pathName": "System Settings",
+    "description": "System setting page",
+    "iconName": "bx-customize",
+    "isNav": true,
+    "applicationMode": "all",
+    "subNav": [
+      {
+        "path": "/Users",
+        "pathName": "Manage Users",
+        "description": "Add and edit existing Users",
+        "iconName": "bx-user",
+        "tooltip": "Add and edit existing Users",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "all"
+      },
+      {
+        "path": "/DashboardConfig",
+        "pathName": "Manage Dashboard",
+        "description": "Edit Dashboard Config",
+        "iconName": "bx-cog",
+        "tooltip": "Edit Dashboard Config",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "all"
+      },
+      {
+        "path": "/SystemSettings",
+        "pathName": "System Setting",
+        "description": "Edit System Setting",
+        "iconName": "bx-cog",
+        "tooltip": "Edit System Setting",
+        "keywords": "4",
+        "isNav": true,
+        "applicationMode": "all"
+      }
+    ]
+  },
+  // Not search able
+  {
+    "path": "/customers",
+    "pathName": "Find Customers",
+    "description": "Find a specific customer from the database to see further details",
+    "iconName": "bxs-user",
+    "tooltip": "",
+    "keywords": "how to find customer, can i find customer, list of customer",
+    "isNav": false
+  },
+  {
+    "path": "/customers",
+    "pathName": "Edit Customers",
+    "description": "Edit customer details in the database",
+    "iconName": "bxs-user",
+    "tooltip": "",
+    "keywords": "how to edit customer, can i edit customer",
+    "isNav": false,
+    "imgSrc": "/img/editcustomer.jpg"
+  },
+  {
+    "path": "/CreateCustomer",
+    "pathName": "Create New Customers",
+    "description": "Create a new customer in the database",
+    "iconName": "bxs-user",
+    "keywords": "how to create customer, can i create customer",
+    "isNav": false
+  },
+  {
+    "path": "/customers",
+    "pathName": "Delete Customer",
+    "description": "Delete a customer from the database",
+    "iconName": "bxs-user",
+    "tooltip": "",
+    "keywords": "how to delete customer, can i delete customer,",
+    "isNav": false,
+    "imgSrc": "/img/deletecustomer.jpg"
+  },
+  {
+    "path": "/CreateProduct",
+    "pathName": "Create Product",
+    "description": "Create a new product in the database",
+    "iconName": "bxs-package",
+    "tooltip": "",
+    "keywords": "how to create product, can i create product,",
+    "isNav": false
+  },
+  {
+    "path": "/products",
+    "pathName": "Find Product",
+    "description": "Find a specific product from the database to see further details",
+    "iconName": "bxs-package",
+    "keywords": "how to find product, can i find product, where is product",
+    "isNav": false
+  },
+  {
+    "path": "/products",
+    "pathName": "See all products",
+    "description": "See the ful list of products and download to excel in .csv format",
+    "iconName": "bxs-package",
+    "keywords": "how to see list of products, can i download and see list of product",
+    "isNav": false
+  },
+  {
+    "path": "/products",
+    "pathName": "Edit Product Details",
+    "description": "Edit product details in the database",
+    "iconName": "bxs-package",
+    "keywords": "how to edit product, can i edit product,",
+    "isNav": false,
+    "imgSrc": "/img/editproducts.jpg"
+  },
+  {
+    "path": "/products",
+    "pathName": "Delete Product",
+    "description": "Delete a product from the database",
+    "iconName": "bxs-package",
+    "tooltip": "",
+    "keywords": "how to delete product, can i delete product,",
+    "isNav": false,
+    "imgSrc": "/img/deleteproducts.jpg"
+  },
+  {
+    "path": "/products",
+    "pathName": "Download List of Products",
+    "description": "See the full list of products and download to excel in .csv format",
+    "iconName": "bxs-package",
+    "tooltip": "",
+    "keywords": "how to download product, can i download product,",
+    "isNav": false,
+    "imgSrc": "/img/downloadproducts.jpg"
+  },
+  {
+    "path": "/products",
+    "pathName": "View Product Image",
+    "description": "View an image of a product",
+    "iconName": "bxs-package",
+    "tooltip": "",
+    "keywords": "how to view product image, can i view product image,",
+    "isNav": false,
+    "imgSrc": "/img/laptop.jpg"
+  },
+  {
+    "path": "/products",
+    "pathName": "See full product details",
+    "description": "See details relating to a specific product including supplier/asset information",
+    "iconName": "bxs-package",
+    "tooltip": "",
+    "keywords": "how to see product detail, can i see product detail,",
+    "isNav": false,
+    "imgSrc": "/img/detailsproducts.jpg"
+  },
+  {
+    "path": "/assets",
+    "pathName": "See all assets",
+    "description": "See the full list of assets and download to excel in .csv format",
+    "iconName": "bx-barcode-reader",
+    "keywords": "how to see full list of assets, can i see list of assets,",
+    "isNav": false,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/CreateAsset",
+    "pathName": "Create New Asset",
+    "description": "Create a new asset in the database",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to create assets, can i create assets,",
+    "isNav": false,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/assets",
+    "pathName": "Edit Asset",
+    "description": "Edit asset details in the database",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to edit assets, can i edit assets,",
+    "isNav": false,
+    "imgSrc": "/img/editassets.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/assets",
+    "pathName": "Delete Asset",
+    "description": "Delete asset details in the database",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to delete assets, can i delete assets,",
+    "isNav": false,
+    "imgSrc": "/img/deleteassets.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/assets",
+    "pathName": "Download list of Assets",
+    "description": "See the full list of assets and download to excel in .csv format",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to download list of assets, assets csv",
+    "isNav": false,
+    "imgSrc": "/img/downloadassets.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/assets",
+    "pathName": "See full asset details",
+    "description": "See details relating to a specific asset including products/locations",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to see assets details, can i see assets details",
+    "isNav": false,
+    "imgSrc": "/img/detailsassets.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/assets",
+    "pathName": "Add EPC to asset",
+    "description": "Scan and assign an EPC code to an asset",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to add epc to asset, how to scan epc",
+    "isNav": false,
+    "imgSrc": "/img/laptop.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/Asset/AssignToLocation",
+    "pathName": "Assign Asset to Location",
+    "description": "Scan and assign an asset to a location",
+    "iconName": "bx-barcode-reader",
+    "tooltip": "",
+    "keywords": "how to add assign asset to location",
+    "isNav": false
+  },
+  {
+    "path": "/assets",
+    "pathName": "Find assets by product",
+    "description": "See a list of assets filtered by product",
+    "iconName": "bx-barcode-reader",
+    "keywords": "how to filter asset by product, filter asset by product",
+    "isNav": false,
+    "imgSrc": "/img/assetbyproduct.jpg"
+  },
+  {
+    "path": "/assets",
+    "pathName": "Find assets by location",
+    "description": "See a list of assets filtered by location",
+    "iconName": "bx-barcode-reader",
+    "keywords": "how to filter asset by location, filter asset by location",
+    "isNav": false,
+    "imgSrc": "/img/assetbylocation.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "Find location",
+    "description": "Find a specific location from the database to see further details",
+    "iconName": "bxs-map",
+    "keywords": "how to find specific location, where to find specific location",
+    "isNav": false,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "See all locations",
+    "description": "See the full list of locations and download to excel in .csv format",
+    "iconName": "bxs-map",
+    "keywords": "how to see full list of locations, where to see full list of locations",
+    "isNav": false,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/CreateLocation",
+    "pathName": "Create New Location",
+    "description": "Create a new location in the database",
+    "iconName": "bxs-map",
+    "tooltip": "",
+    "keywords": "how to create locations, can i create locations,",
+    "isNav": false,
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "Edit Location",
+    "description": "Edit location details in the database",
+    "iconName": "bxs-map",
+    "tooltip": "",
+    "keywords": "how to edit locations, can i edit locations,",
+    "isNav": false,
+    "imgSrc": "/img/editlocations.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "Delete Location",
+    "description": "Delete a location from the database",
+    "iconName": "bxs-map",
+    "tooltip": "",
+    "keywords": "how to Delete locations, can i Delete locations,",
+    "isNav": false,
+    "imgSrc": "/img/deletelocations.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "Download list of Locations",
+    "description": "See the full list of locations and download to excel in .csv format",
+    "iconName": "bxs-map",
+    "tooltip": "",
+    "keywords": "how to download list of locations, locations csv",
+    "isNav": false,
+    "imgSrc": "/img/downloadlocation.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "See location details",
+    "description": "See details relating to specific locations",
+    "iconName": "bxs-map",
+    "tooltip": "",
+    "keywords": "how to see locations details, can i see locations details",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/locations",
+    "pathName": "Add EPC to location",
+    "description": "Manually assign a EPC code to a location",
+    "iconName": "bxs-map",
+    "keywords": "how to manually assign epc to location, can i assign epc to location",
+    "isNav": false,
+    "imgSrc": "/img/laptop.jpg",
+    "applicationMode": "asset"
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "See all suppliers",
+    "description": "See the full list of suppliers and download to excel in .csv format",
+    "iconName": "bxs-group",
+    "keywords": "how to see full list of suppliers, can i see list of suppliers",
+    "isNav": false
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "Find supplier",
+    "description": "Find a specific supplier from the database to see further details",
+    "iconName": "bxs-group",
+    "keywords": "how to find specific supplier, can i find specific supplier",
+    "isNav": false
+  },
+  {
+    "path": "/CreateSupplier",
+    "pathName": "Create Supplier",
+    "description": "Create a new supplier in the database",
+    "iconName": "bxs-group",
+    "tooltip": "",
+    "keywords": "how to create suppliers, can i create suppliers",
+    "isNav": false
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "Edit Suppliers details",
+    "description": "Edit supplier details in the database",
+    "iconName": "bxs-group",
+    "tooltip": "",
+    "keywords": "how to edit suppliers, can i edit suppliers,",
+    "isNav": false,
+    "imgSrc": "/img/editsupplier.jpg"
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "Delete Suppliers",
+    "description": "Delete a supplier from the database",
+    "iconName": "bxs-group",
+    "tooltip": "",
+    "keywords": "how to Delete suppliers, can i Delete suppliers,",
+    "isNav": false,
+    "imgSrc": "/img/deletesupplier.jpg"
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "Download list of Suppliers",
+    "description": "See the full list of suppliers and download to excel in .csv format",
+    "iconName": "bxs-group",
+    "tooltip": "",
+    "keywords": "how to download list of suppliers, suppliers csv",
+    "isNav": false,
+    "imgSrc": "/img/downloadcsv.jpg"
+  },
+  {
+    "path": "/suppliers",
+    "pathName": "See supplier details",
+    "description": "See details relating to individual suppliers",
+    "iconName": "bxs-group",
+    "tooltip": "",
+    "keywords": "how to see suppliers details, can i see suppliers details",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/categories",
+    "pathName": "Find category",
+    "description": "Find a specific category from the database to see further details",
+    "iconName": "bxs-category",
+    "tooltip": "",
+    "keywords": "how to find specific category, can i find specific category",
+    "isNav": false
+  },
+  {
+    "path": "/CreateCategory",
+    "pathName": "Create Category",
+    "description": "Create a new category in the database",
+    "iconName": "bxs-category",
+    "tooltip": "",
+    "keywords": "how to create category, can i create category,",
+    "isNav": false
+  },
+  {
+    "path": "/categories",
+    "pathName": "Edit Category",
+    "description": "Edit category details in the database",
+    "iconName": "bxs-category",
+    "tooltip": "",
+    "keywords": "how to edit category, can i edit category,",
+    "isNav": false,
+    "imgSrc": "/img/editcategory.jpg"
+  },
+  {
+    "path": "/categories",
+    "pathName": "Delete category",
+    "description": "Delete category details in the database",
+    "iconName": "bxs-category",
+    "tooltip": "",
+    "keywords": "how to delete category, can i delete category,",
+    "isNav": false,
+    "imgSrc": "/img/deletecategory.jpg"
+  },
+  {
+    "path": "/categories",
+    "pathName": "See category details",
+    "description": "See details relating to a specific category",
+    "iconName": "bxs-category",
+    "tooltip": "",
+    "keywords": "how to see category details, can i see category details,",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "See all orders",
+    "description": "See the full list of orders and download to excel in .csv format",
+    "iconName": "bxs-cart",
+    "keywords": "how to see full list of orders",
+    "isNav": false
+  },
+  {
+    "path": "/CreateOrder",
+    "pathName": "Create Order",
+    "description": "Create a new order in the database",
+    "iconName": "bxs-cart",
+    "tooltip": "Create and Edit Orders",
+    "keywords": "how to create orders, can i create orders",
+    "isNav": false
+  },
+  {
+    "path": "/Orders",
+    "pathName": "Edit order details",
+    "description": "Edit order details in the database",
+    "iconName": "bxs-cart",
+    "tooltip": "",
+    "keywords": "how to edit order, can i edit order,",
+    "isNav": false,
+    "imgSrc": "/img/editorder.jpg"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "Delete Order",
+    "description": "Delete an order from the database",
+    "iconName": "bxs-cart",
+    "tooltip": "",
+    "keywords": "how to delete order, can i delete order,",
+    "isNav": false,
+    "imgSrc": "/img/deleteorder.jpg"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "Download list of Orders",
+    "description": "See the full list of orders and download to excel in .csv format",
+    "iconName": "bxs-cart",
+    "keywords": "how to download list of orders, orders csv",
+    "isNav": false,
+    "imgSrc": "/img/downloadcsv.jpg"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "See order status",
+    "description": "See details relating to individual order status",
+    "iconName": "bxs-cart",
+    "keywords": "how to see order status",
+    "isNav": false,
+    "imgSrc": "/img/orderstatus.jpg"
+  },
+  {
+    "path": "/Orders",
+    "pathName": "Find order",
+    "description": "Find a specific order from the database to see further details",
+    "iconName": "bxs-cart",
+    "keywords": "how to see find specific order, can i find specific order",
+    "isNav": false
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "See all pick lists",
+    "description": "See the full list of pick lists and download as .pdf",
+    "iconName": "bxs-package",
+    "keywords": "how to see full list of pick lists",
+    "isNav": false
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Find pick list",
+    "description": "Find a specific pick list from the database to see further details",
+    "iconName": "bxs-package",
+    "keywords": "how to find pick list",
+    "isNav": false
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "See pick list status",
+    "description": "See details relating to individual pick list status",
+    "iconName": "bxs-package",
+    "keywords": "how to see pick list status",
+    "isNav": false,
+    "imgSrc": "/img/laptop.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Start pick list",
+    "description": "Push a pick list to start picking",
+    "iconName": "bxs-package",
+    "keywords": "how to start pick list",
+    "isNav": false,
+    "imgSrc": "/img/startpick.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Complete pick list",
+    "description": "Completes pick list and pushes the picked quantity to despatch status",
+    "iconName": "bxs-package",
+    "keywords": "how to complete pick list",
+    "isNav": false,
+    "imgSrc": "/img/completepick.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Send order to despatch",
+    "description": "Push a picked list to despatch",
+    "iconName": "bxs-package",
+    "keywords": "how to complete send order to despatch",
+    "isNav": false,
+    "imgSrc": "/img/sendtodespatch.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Print pick list",
+    "description": "Print an individual pick list",
+    "iconName": "bxs-package",
+    "keywords": "how to print an individual pick list",
+    "isNav": false,
+    "imgSrc": "/img/printpick.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Delete/Void pick list",
+    "description": "Void or delete a pick list",
+    "iconName": "bxs-package",
+    "keywords": "how to delete/void pick list",
+    "isNav": false,
+    "imgSrc": "/img/voicpick.jpg"
+  },
+  {
+    "path": "/PickingLists",
+    "pathName": "Download list of pick lists",
+    "description": "See the full list of pick lists and download as .pdf",
+    "iconName": "bxs-package",
+    "keywords": "how to download list of pick lists, can i download list of pick list",
+    "isNav": false,
+    "imgSrc": "/img/downloadpdf.jpg"
+  },
+  {
+    "path": "/Dashboard",
+    "pathName": "Administration",
+    "description": "See all administration options",
+    "iconName": "bx-home-alt",
+    "keywords": "how to see all administration options",
+    "isNav": false,
+    "imgSrc": "/img/adminpanel.jpg",
+    "applicationMode": "all"
+  },
+  {
+    "path": "/Dashboard",
+    "pathName": "View dashboard",
+    "description": "See a range of live up-to-date data ",
+    "iconName": "bx-home-alt",
+    "keywords": "how to view dashboard, can i view dashboard",
+    "isNav": false,
+    "applicationMode": "all"
+  },
+  {
+    "path": "/Dashboard",
+    "pathName": "Log out",
+    "description": "To log out of StokWare ",
+    "iconName": "bx-home-alt",
+    "keywords": "how to log out, log out account,",
+    "isNav": false,
+    "imgSrc": "/img/logout.jpg",
+    "applicationMode": "all"
+  },
+  {
+    "path": "/Dashboard",
+    "pathName": "Light mode or Dark Mode",
+    "description": "Toggle switch to change viewing mode from light to dark settings",
+    "iconName": "bx-home-alt",
+    "keywords": "how to toggle mode, how to switch dark mode",
+    "isNav": false,
+    "imgSrc": "/img/darkmode.jpg",
+    "applicationMode": "all"
+  },
+  {
+    "path": "/TestChart",
+    "pathName": "View data charts",
+    "description": "See a range of data presented in chart format",
+    "iconName": "bx-home-alt",
+    "keywords": "example of charts, charts demo",
+    "isNav": false,
+    "applicationMode": "all"
+  },
+  {
+    "path": "/AuditLogPage",
+    "pathName": "Audit Logs",
+    "description": "See all changes to entities",
+    "iconName": "bx-home-alt",
+    "keywords": "how to view Audit Logs, how to view changes",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/Invoice",
+    "pathName": "Invoice",
+    "description": "View invoice",
+    "iconName": "bx-home-alt",
+    "keywords": "how to view invoice, how to view billing details",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/DespatchNotes",
+    "pathName": "Despatch Note",
+    "description": "View despatch note",
+    "iconName": "bx-home-alt",
+    "keywords": "how to view despatch note",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/PackingList",
+    "pathName": "Packing List",
+    "description": "View Packing List",
+    "iconName": "bx-home-alt",
+    "keywords": "how to view packing list",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/CreatePackages",
+    "pathName": "Create Packages",
+    "description": "Create Packages for Order",
+    "iconName": "bx-home-alt",
+    "keywords": "how to create packages for order",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg"
+  },
+  {
+    "path": "/AssetCustomFieldValues",
+    "pathName": "Asset Custom Field Values",
+    "description": "Create and edit custom field values",
+    "iconName": "bx-package",
+    "keywords": "Create and edit custom field values",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg",
+    "applicationMode": "all"
+  },
+  {
+    "path": "/AssetCustomFields",
+    "pathName": "Asset Custom Fields",
+    "description": "Create and edit custom fields",
+    "iconName": "bx-package",
+    "keywords": "Create and edit custom fields",
+    "isNav": false,
+    "imgSrc": "/img/details.jpg",
+    "applicationMode": "all"
+  }
+]

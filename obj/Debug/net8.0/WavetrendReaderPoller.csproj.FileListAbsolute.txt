@@ -1,0 +1,195 @@
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.exe
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.deps.json
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.runtimeconfig.json
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.pdb
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfoInputs.cache
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfo.cs
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.CoreCompileInputs.cache
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\refint\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.pdb
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.genruntimeconfig.cache
+D:\GitNugetSync\ReaderMonitor\WavetrendReaderPoller\obj\Debug\net8.0\ref\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\states.json
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\routes.json
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.exe
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\nexatrak.utilities.json
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.deps.json
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.runtimeconfig.json
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.pdb
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Append.Blazor.Printing.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ClosedXML.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Dynamitey.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelDataReader.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelDataReader.DataSet.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\IdentityModel.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Amazon.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Apple.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Blackberry.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Core.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Firefox.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Google.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Windows.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.BrowserConsole.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.ApiSecurity.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.pdb
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.ApiSecurity.pdb
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.AssemblyReference.cache
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfoInputs.cache
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfo.cs
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.CoreCompileInputs.cache
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\Wavetren.F5BDDECD.Up2Date
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\refint\WavetrendReaderPoller.dll
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.pdb
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.genruntimeconfig.cache
+D:\GitNugetSync\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\ref\WavetrendReaderPoller.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\states.json
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\routes.json
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.exe
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\nexatrak.utilities.json
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.deps.json
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.runtimeconfig.json
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\WavetrendReaderPoller.pdb
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Append.Blazor.Printing.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Dynamitey.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelDataReader.DataSet.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Amazon.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Apple.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Blackberry.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Core.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Firefox.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Google.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\PushSharp.Windows.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.BrowserConsole.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.ApiSecurity.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.pdb
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Nexatrak.Utilities.ApiSecurity.pdb
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.AssemblyReference.cache
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfoInputs.cache
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.AssemblyInfo.cs
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.CoreCompileInputs.cache
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.csproj.CopyComplete
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\refint\WavetrendReaderPoller.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.pdb
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\WavetrendReaderPoller.genruntimeconfig.cache
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\obj\Debug\net8.0\ref\WavetrendReaderPoller.dll
+C:\Users\Sujita\source\Non-Git Repos\Wavetrend from Roger\ReaderMonitorEricMods\WavetrendReaderPoller\bin\Debug\net8.0\Readers.txt
